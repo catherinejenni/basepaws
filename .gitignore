@@ -1,3 +1,5 @@
 .DS_Store
 .ipynb_checkpoints/
 survey.tab
+answers.csv
+questions.csv
